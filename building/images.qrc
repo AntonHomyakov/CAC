@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias='stop.png'>icons/stop.png</file>
+        <file alias='red.png'>icons/red.png</file>
+        <file alias='exit.png'>icons/exit.png</file>
+        <file alias='green.png'>icons/green.png</file>
+        <file alias='start.png'>icons/start.png</file>
+        <file alias='icon.png'>icons/icon.png</file>
+        <file alias='quit.png'>icons/quit.png</file>
+        <file alias='check.png'>icons/check.png</file>
+        <file alias='qt.png'>icons/qt.png</file>
+        <file alias='settings.png'>icons/settings.png</file>
+        <file alias='yellow.png'>icons/yellow.png</file>
+        <file alias='log.png'>icons/log.png</file>
+    </qresource>
+</RCC>
