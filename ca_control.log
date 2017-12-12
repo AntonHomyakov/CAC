@@ -5657,3 +5657,18 @@
 2017-12-12 09:05:07.825664   OCSP расположенная по адресу: http://ra2.e-portal.ru/ocsp/ocsp.srf отвечает на запросы.
 2017-12-12 09:05:07.826665   Начинаю проверку TSP расположенного по адресу: http://tsp.e-portal.ru/tsp/tsp.srf
 2017-12-12 09:05:11.274300   TSP расположенная по адресу: http://tsp.e-portal.ru/tsp/tsp.srf отвечает на запросы. 
+2017-12-12 11:51:56.257354   Доступность СОС по данным e-trust. Сутки: 100% Неделя: 100% Месяц: 100%
+2017-12-12 11:51:56.257855   Начинаю проверку СОС. CDP = http://uc.e-portal.ru/certenroll/e-portal_2016.crl
+2017-12-12 11:51:57.774902   СОС с адреса: http://uc.e-portal.ru/certenroll/e-portal_2016.crl действующий.
+2017-12-12 11:51:57.775390   Начинаю проверку СОС. CDP = http://uc2.e-portal.ru/certenroll/e-portal_2016.crl
+2017-12-12 11:51:58.018741   СОС с адреса: http://uc2.e-portal.ru/certenroll/e-portal_2016.crl действующий.
+2017-12-12 11:51:58.019240   Начинаю проверку СОС. CDP = http://uc.e-portal.ru/certenroll/e-portal_2017.crl
+2017-12-12 11:51:58.207167   СОС с адреса: http://uc.e-portal.ru/certenroll/e-portal_2017.crl действующий.
+2017-12-12 11:51:58.207668   Начинаю проверку СОС. CDP = http://uc2.e-portal.ru/certenroll/e-portal_2017.crl
+2017-12-12 11:51:58.360372   СОС с адреса: http://uc2.e-portal.ru/certenroll/e-portal_2017.crl действующий.
+2017-12-12 11:51:58.360871   Начинаю проверку OCSP расположенного по адресу: http://ra.e-portal.ru/ocsp/ocsp.srf
+2017-12-12 11:52:01.206086   OCSP расположенная по адресу: http://ra.e-portal.ru/ocsp/ocsp.srf отвечает на запросы.
+2017-12-12 11:52:01.206586   Начинаю проверку OCSP расположенного по адресу: http://ra2.e-portal.ru/ocsp/ocsp.srf
+2017-12-12 11:52:03.604836   OCSP расположенная по адресу: http://ra2.e-portal.ru/ocsp/ocsp.srf отвечает на запросы.
+2017-12-12 11:52:03.605336   Начинаю проверку TSP расположенного по адресу: http://tsp.e-portal.ru/tsp/tsp.srf
+2017-12-12 11:52:06.512976   TSP расположенная по адресу: http://tsp.e-portal.ru/tsp/tsp.srf отвечает на запросы. 
