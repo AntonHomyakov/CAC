@@ -490,8 +490,8 @@ class MainWindow(QtGui.QMainWindow):
             self.timer_value = dialog.intValue()
 
     def send_to_email(self, error_code, cdp):
-        login = 'ca.eportal@gmail.com'
-        passwd = 'v9CXRj5T5jzR'
+        login = ''
+        passwd = ''
         server = 'smtp.gmail.com'
         port = 587
         to_addrs = 'mr.humster@gmail.com'
